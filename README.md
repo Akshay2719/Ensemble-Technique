@@ -7,8 +7,8 @@ Ensemble Machine Learning Algorithms in Python with scikit-learn. Ensembles can 
 Combine Model Predictions Into Ensemble Predictions
 The two most popular methods for combining the predictions from different models are:
 
-Bagging: Building multiple models (typically of the same type) from different subsamples of the training dataset.
-Boosting: Building multiple models (typically of the same type) each of which learns to fix the prediction errors of a prior model in the chain.
+# Bagging: Building multiple models (typically of the same type) from different subsamples of the training dataset.
+# Boosting: Building multiple models (typically of the same type) each of which learns to fix the prediction errors of a prior model in the chain.
 
 A standard classification problem used to demonstrate each ensemble algorithm is the Pima Indians onset of diabetes dataset. 
 It is a binary classification problem where all of the input variables are numeric and have differing scales.
